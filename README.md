@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Devesh, and some of my friend call me dev.
-I am currently in the phase where I am learning the fundamentals of software development. Apart from programming, I like to read interesting and mind stimulating stuff. Did you know that I also write a blog?
+
+I am Devesh, and some of my friend call me dev (no pun intended).
+
+- 🌱 I am currently learning the fundamentals of software development.
+- 👯 I’m looking to collaborate on projects related to web (preferably frontend).
+- 📫 Contact me here: [contact](https://deveshanand.com/contact/) or mail me [contactdeveshanand@gmail.com](contactdeveshanand@gmail.com)
+- ⚡ Fun fact: Apart from programming, I like to read interesting and mind stimulating stuff.
+ 
+Did you know that I also write a blog?    
 Well, just in case you want to read, here's the link: [Devesh Anand](https://deveshanand.com/blog/)
