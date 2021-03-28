@@ -22,7 +22,7 @@ I am Devesh, and some of my friend call me dev (no pun intended).
 - 📫 Contact me here: [contact](https://deveshanand.com/contact/) or mail me [contactdeveshanand@gmail.com](mailto:contactdeveshanand@gmail.com)
 - ⚡ Fun fact: Apart from programming, I like to read interesting and mind stimulating stuff.
 
-[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh-anand)](https://github.com/devesh-anand/github-readme-stats)
+[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh-anand&show_icons=true&theme=merko)](https://github.com/devesh-anand/github-readme-stats)
  
 Did you know that I also write a blog?    
 Well, just in case you want to read, here's the link: [Devesh Anand](https://deveshanand.com/blog/)
