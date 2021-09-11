@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 <div align="center">
   <img src="https://i.imgur.com/YvtfOnT.gif" align="center" allowFullScreen>
 </div>
