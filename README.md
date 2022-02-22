@@ -31,9 +31,9 @@ I am Devesh, and some of my friend call me dev (no pun intended).
 
 <!--<div>
   <img src="https://raw.githubusercontent.com/devesh-anand/devesh-anand/output/github-contribution-grid-snake.svg">
-</div>-->
+</div>
 
-<hr>
+<hr>-->
 
 Did you know that I also write a blog?    
 Well, just in case you want to read, here's the link: [Devesh Anand](https://deveshanand.com/blog/)
