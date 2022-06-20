@@ -17,7 +17,7 @@ I am Devesh, and some of my friend call me dev (no pun intended).
 
 <hr>
 
-[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh-anand&show_icons=true&theme=radical)](https://github.com/devesh-anand/github-readme-stats)
+[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh-anand&show_icons=true&theme=radical&count_private=true)](https://github.com/devesh-anand/github-readme-stats)
 
 <!--[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)-->
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deveshanand18)
