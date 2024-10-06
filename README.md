@@ -11,7 +11,7 @@
 I am Devesh, and some of my friend call me dev (no pun intended).
 
 - 🌱 Currently learning advanced concepts of software development.
-- 📫 Contact me here: [contact](https://deveshanand.com/contact/) or mail me [contactdeveshanand@gmail.com](mailto:contactdeveshanand@gmail.com)
+- 📫 Contact me on linkedin preferably. I usually check it every other day.
 - ⚡ Fun fact: Apart from programming, I like to read interesting and mind stimulating stuff and am a big anime fan.
 
 <hr>
