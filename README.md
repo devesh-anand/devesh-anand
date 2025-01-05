@@ -28,8 +28,6 @@ I am Devesh, and some of my friend call me dev (no pun intended).
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deveshanand18)
 <!--![Visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=devesh-anand&repo=devesh-anand&countColorcountColor&countColor=%237B1E7B) -->
 
-<hr>
-
 <!--
 <div>
   <img src="https://raw.githubusercontent.com/devesh-anand/devesh-anand/output/github-contribution-grid-snake.svg">
