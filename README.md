@@ -38,3 +38,7 @@ I am Devesh, and some of my friend call me dev (no pun intended).
 
 Did you know that I also write a blog?    
 Well, just in case you want to read, here's the link: [Devesh Anand](https://deveshanand.com/blog/)
+
+<hr>
+
+![Steam Profile](https://steam-profile-omega.vercel.app/api/steam-banner?id=76561198386606986&theme=default&stats=true&recent=true&style=banner)
